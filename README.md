@@ -14,3 +14,7 @@ Bulunan kayıtlar Crystal Report ile raporlanır.
 - Veri filtreleme
 - Kullanıcı etkileşimi (MessageBox)
 - Dinamik raporlama
+## Nasıl Çalıştırılır
+1. Visual Studio ile aç
+2. bilgileri3.accdb ekli olmalı
+3. çalıştır
